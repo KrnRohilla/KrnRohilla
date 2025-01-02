@@ -1,4 +1,4 @@
-![logo](https://github.com/KrnRohilla/KrnRohilla/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/KrnRohilla/KrnRohilla/blob/main/karan%201.png)
 <h1 align="center">Hi 👋, I'm Karan Rohilla</h1>
 <h3 align="center">A passionate frontend developer from India Open to career opportunities in frontend developer</h3>
 
