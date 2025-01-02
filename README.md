@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAGbB7fOiUM/zj8HGTMMX6xpiG9yZmEbWg/edit?utm_content=DAGbB7fOiUM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Karan Rohilla</h1>
 <h3 align="center">A passionate frontend developer from India Open to career opportunities in frontend developer</h3>
 
