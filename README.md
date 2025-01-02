@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Karan Rohilla</h1>
 <h3 align="center">A passionate frontend developer from India Open to career opportunities in frontend developer</h3>
 
-<img align="right" alt="coding" width="400" scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl6eXFyNThnNnVyOXF1OWJhMmhzbm9vZ2FzNWgycnNqdHE0dTdsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
-
 - 🌱 I’m currently learning **Javascript & Reactjs**
 
 - 📄 Know about my experiences [https://frontendre.tiiny.site](https://frontendre.tiiny.site)
